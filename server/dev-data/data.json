@@ -1,0 +1,52 @@
+[
+  {
+    "id": 0,
+    "productName": "Pizza",
+    "image":"🍕",
+    "from": "Italy",
+    "quantity": "4 pieces",
+    "price": "149/-",
+    "Fast food": true
+    
+  },
+  {
+    "id": 1,
+    "productName": "burger + fries combo",
+    "image": "🍔 + 🍟",
+    "from": "Portugal",
+    "quantity": "1+1",
+    "price": "179/-",
+    "Fast food": true
+    
+  },
+  {
+    "id": 2,
+    "productName": "sandwich",
+    "image": "🥪",
+    "from": "England",
+    "quantity": "1 ",
+    "price": "159/-",
+    "Fast food": true
+    
+  },
+  {
+    "id": 3,
+    "productName": "noodles",
+    "image": "🍝",
+    "from": "china",
+    "quantity": "20 🥕",
+    "price": "99/-",
+    "Fast food": true
+    
+  },
+  {
+    "id": 4,
+    "productName": "Ice cream",
+    "image": "🍨",
+    "from": "china",
+    "quantity": "1",
+    "price": "59/-",
+    "Fast food": false
+    
+  }
+]
